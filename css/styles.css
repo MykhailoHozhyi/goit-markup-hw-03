@@ -79,10 +79,6 @@ body {
   color: #4d5ae5;
 }
 
-.list-item-text {
-  padding: 32px 0;
-}
-
 /* ===== HEADER ===== */
 
 .page-header {
@@ -242,6 +238,10 @@ body {
     0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
 }
 
+.team-item-text {
+  padding: 32px 0;
+}
+
 .team-name {
   font-weight: 500;
   font-size: 20px;
@@ -276,6 +276,10 @@ body {
   border-bottom: 1px solid #e7e9fc;
   border-left: 1px solid #e7e9fc;
   border-right: 1px solid #e7e9fc;
+}
+
+.portfolio-item-text {
+  padding: 32px 16px;
 }
 
 .portfolio-item-title {
